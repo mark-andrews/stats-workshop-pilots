@@ -1,7 +1,7 @@
 ---
 title: "Stats 1 R Workshop Pilot: Part 1"
 author: |
-  | Mark Andrews, Lucy Justics
+  | Mark Andrews, Lucy Justice
   | Psychology Department, Nottingham Trent University
   |   
   | \faEnvelopeO\  ```mark.andrews@ntu.ac.uk```
